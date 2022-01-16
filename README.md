@@ -20,3 +20,6 @@ Skills: tech: Android , Flutter / science : Clean Code , Clean Arch , DP , oop ,
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsherifAhmed&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/itsherifAhmed)  
+
+
+![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
