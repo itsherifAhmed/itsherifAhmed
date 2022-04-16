@@ -6,7 +6,7 @@
 
 ### Hi there 👋, my name is sherif
 #### Moblie developer (Flutter - Cross Platform) (Android - Native )
-![Moblie developer (Flutter - Cross Platform) (Android - Native )](sec6.png)
+![Moblie developer (Flutter - Cross Platform) (Android - Native )](https://scontent.fcai20-5.fna.fbcdn.net/v/t39.30808-6/271732467_579945576637253_6428180888437238994_n.jpg?stp=dst-jpg_p526x296&_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=advQP2x65bgAX8cU0Sp&_nc_ht=scontent.fcai20-5.fna&oh=00_AT-3Rr7DtYAJSrtjYtOujgjQdCErpeeeYDjUj8RW7d7U4Q&oe=625F502D)
 
 A mobile app developer is able to create software for phones and tablets, and is familiar with the newest technologies in the mobile world. Mobile development requires staying in the mobile head space, meaning that it's even more important than with other hardware contexts to optimize performance, battery, network, and memory management. A developer must be also aware of how to deal with device fragmentation,often working closely with a designer to achieve the best user experience (UX) results.
 
