@@ -24,9 +24,27 @@ Skills: tech: Android , Flutter / science : Clean Code , Clean Arch , DP , oop ,
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itsherifAhmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Secitsherif/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCytEtngcIINSMbdc22SrbrQ)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsherifAhmed&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/itsherifAhmed)  
+
+# Github Stats
+
+<img alt="sherif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsherifahmed&show_icons=true&hide_border=true&theme=vue-dark" />
+
+<img alt="sherif's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsherifahmed&hide_border=true&theme=vue-dark" />
+
 
 
 ![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
+## *Connect with me*
+
+* [![Linkedin: sec it developer](https://img.shields.io/badge/-secitDeveloper-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/sec-it-developer-653a73238)](https://www.linkedin.com/in/sec-it-developer-653a73238)
+* [![youtube: sec it developers](https://img.shields.io/badge/-secItDevelopers-blue?style=social&logo=Youtube&link=https://youtube.com/c/SecitDevelopers)](https://youtube.com/c/SecitDevelopers)
+* [![Facebook: sherif](https://img.shields.io/badge/-sherif-blue?style=social&logo=Facebook&link=https://www.facebook.com/devsherif/)](https://www.facebook.com/devsherif)
+* [![Telegram: Sec it developer](https://img.shields.io/badge/-secItDeveloper-blue?style=social&logo=Telegram&link=https://t.me/Sec_it_developers)](https://t.me/Sec_it_developers)
+<br>
+
