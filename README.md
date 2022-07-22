@@ -35,7 +35,7 @@ Skills: tech: Android , Flutter / science : Clean Code , Clean Arch , DP , oop ,
 
 
 
-
+![snake gif](https://github.com/itsherifahmed/itsherifahmed/blob/output/github-contribution-grid-snake.gif)
 
 ## *Connect with me*
 
